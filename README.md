@@ -40,20 +40,10 @@ An introduction to the Python language that covers the basics, including *Data T
 
 An introduction to the libraries used for Data Analysis with Python (`numpy`, `pandas` etc..). Includes the basics of how to, load, manipulate, analyse and visualise data with Python.
 
-### Introduction to Scripting and Automation
+### Introduction to Python for Automation and CLI
 
 Outside of the Jupyter notebook this lessons is an introduction to how we can use the Python skills we have learnt to automate some basic tasks. Including a brief tour of the Python standard library with `logging` and `requests`. How to handle script arguments / log / report progress. CLI with `click`.
 
-### Introduction to Django
+### Intermediate Python 1
 
-Learn the basics of web development with the Django framework.
-
-### Further Python I
-
-Working with third-party libraries, virtual environments
-A more in-depth look at Exception handling,
-
-### Further Python II
-
-contextmanagers i.e `with` and decorators
-
+This notebook provides a gentle introduction to some intermediate topics and concepts that are part of the core Python language (Decorators and Generators)
